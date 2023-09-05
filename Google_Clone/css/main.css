@@ -1,0 +1,21 @@
+body,
+input,
+button {
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    color: #202124;
+}
+
+.logo {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center bottom;
+    width: auto;
+    margin-bottom: 40px;
+}
+
+.searchbar {
+    width: 600px !important;
+    margin: 0px auto;
+}
